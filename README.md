@@ -125,7 +125,7 @@ by **Future Interns**
 
 ## 👤 Author
 
-**sakavarapu Tharun**
+**k lokesh**
 Aspiring Data Analyst | SQL | Power BI
 
 ---
