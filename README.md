@@ -125,7 +125,7 @@ by **Future Interns**
 
 ## 👤 Author
 
-**k lokesh**
+**K.LOKESH**
 Aspiring Data Analyst | SQL | Power BI
 
 ---
